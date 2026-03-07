@@ -13,4 +13,4 @@ Matplotlib: Data visualization for post-session analysis.
 2. Gaze Tracking & StabilityThe model monitors eye direction to determine attention levels. It calculates a Gaze Stability Score (as seen in the shell output: 0.76); a lower score typically indicates wandering focus or lack of muscle control.3. Blink AnalysisBlink Rate: Calculates frequency (e.g., 5.73 blinks/min).
 3.Duration: Detects "Long Blinks." Alcohol often slows the central nervous system, leading to longer eye-closure durations compared to a sober baseline.
 4. Decision LogicThe system combines the Similarity Score, Blink Rate, and Gaze Deviation metrics. If the metrics cross a specific threshold, the system flags the user (e.g., "Long blink detected" or "Alcohol: High").
-![Alcohol Detection Project]((https://github.com/Hari-23-cpu/Alcohol-Consumption-Detection-using-OpenCV2-Gaze-Detection-and-Blink-Rate/edit/main/))
+![Alcohol Detection Project]((https://github.com/Hari-23-cpu/Alcohol-Consumption-Detection-using-OpenCV2-Gaze-Detection-and-Blink-Rate/edit/main/Screenshot 2025-12-24 201340.png))
