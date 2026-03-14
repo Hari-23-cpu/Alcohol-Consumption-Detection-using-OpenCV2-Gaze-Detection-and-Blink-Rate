@@ -1,8 +1,3 @@
-Hari, you want your **GitHub README content formatted nicely with icons and a correct image link**. Below is the **clean professional version** you can paste directly into your GitHub `README.md`.
-
-I also fixed your **image link** so it works correctly.
-
----
 
 ## 📌 Alcohol Consumption Detection System
 
